@@ -21,3 +21,5 @@ node_modules/s
 *.log
 *.sql
 *.sqlite
+
+credentials.txt
